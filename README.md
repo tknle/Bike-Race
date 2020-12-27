@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/tknle/Valet-Parking-Program/blob/main/car-parking.jfif">
+  <img width="460" height="300" src="https://unsplash.com/photos/WUehAgqO5hE">
 </p>
 
 ## Table of Contents
@@ -28,18 +28,18 @@ from a text file and produce a report on it. The race is a major event and could
 5,000 participants. The potential of having such high volume of data will require you to be
 efficient in how the data is read, stored and processed. There are three timestamps recorded
 for each rider:
-1. The start time
-2. The time when the rider crested the top of a mountain pass that is on the route
-3. The completion time (or the time at which the rider withdrew)
-In the event that a rider does not complete the course, they are marked as having not
+>1. The start time
+>2. The time when the rider crested the top of a mountain pass that is on the route
+>3. The completion time (or the time at which the rider withdrew)
+>In the event that a rider does not complete the course, they are marked as having not
 completed and the time at which they withdrew is recorded but not used in any calculations
 and riders who do not finish are not eligible for any awards.
-Riders are organized into categories based on age and the race length. Age groupings are
+>Riders are organized into categories based on age and the race length. Age groupings are
 determined by age ranges, where 16-20 are juniors, 21-34 are adults and 35 or older are
 seniors. There are three different races lengths, S (short, 50km), M (medium, 75 km), and L
 (long, 100 km). The race will have different start times for each category but this has no
 impact on the times it will take the riders to complete the course.
-You cannot guarantee that enough riders will enter for each category to win all awards
+>You cannot guarantee that enough riders will enter for each category to win all awards
 available and awards that are not awarded will be listed as “Not Awarded”. 
 
 ### Menu 
