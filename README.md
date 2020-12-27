@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="460" height="300" src="https://unsplash.com/photos/WUehAgqO5hE">
+  <img width="460" height="300" src="https://github.com/tknle/Bike-Race/blob/main/bike-race.jpg">
 </p>
 
 ## Table of Contents
